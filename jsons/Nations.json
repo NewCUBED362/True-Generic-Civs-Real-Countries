@@ -14,7 +14,8 @@
     "outerColor": [255,255,255],
     "innerColor": [0,0,0],
     "uniqueName": "True Generic Real Country",
-    "cities": ["Kabul","Kandahar","Herat","Mazar-e-Sharif","Kunduz","Jalalabad","Taloqan","Pul-e-Khumri","Charikar","Baghlan"],
+    "cities": ["Kabul","Kandahar","Herat","Mazar-e-Sharif","Kunduz","Jalalabad","Taloqan","Pul-e-Khumri","Charikar","Baghlan",
+               "Sheberghan","Ghazni","Lashkargah","Khost","Mihtarlam","Balkh","Farah","Sar-e-Pol","Pul-i-Alam","Aybak"],
     "spyNames": ["Ahmed","Aali","Abeer","Djamel","Fadi","Farah","Fawzi","Hasan","Ikraam","Jafar","Majeed","Munira","Nadir"],
   }
 ]
