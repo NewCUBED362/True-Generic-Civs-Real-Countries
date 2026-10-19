@@ -31,7 +31,7 @@
     "hateHello": "What do you want?",
     "tradeRequest": "Is the following trade of interest to you?",
 
-    "outerColor": [255,255,255],
+    "outerColor": [229,118,116],
     "innerColor": [0,0,0],
     "uniqueName": "True Generic Real Country",
     "cities": ["Tirana"],
