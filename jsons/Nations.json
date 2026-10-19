@@ -1,1 +1,18 @@
+[
+  {
+    "name": "Afghanistan",
+    "leaderName": "",
 
+    "declaringWar": "",
+    "attacked": "",
+    "defeated": "",
+    "introduction": "",
+    "neutralHello": "Hello.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "",
+
+    "uniqueName": "True Generic Real Country",
+    "cities": ["Kabul"],
+    "spyNames": [""],
+  }
+]
