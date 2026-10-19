@@ -35,7 +35,8 @@
     "innerColor": [0,0,0],
     "uniqueName": "True Generic Real Country",
     "cities": ["Tirana","Durrës","Elbasan","Vlorë","Kamëz","Shkodër","Fier","Korçë","Berat","Lushnjë",
-               "Sarandë","Fushë-Krujë","Pogradec","Gjirokastër","Kavajë","Kukës","Peshkopi","Lezhë","Sukth","Laç"],
+               "Sarandë","Fushë-Krujë","Pogradec","Gjirokastër","Kavajë","Kukës","Peshkopi","Lezhë","Sukth","Laç",
+               "Kuçovë","Patos","Mamurras","Vorë","Krujë"],
     "spyNames": ["Ahmed","Aali","Abeer","Djamel","Fadi","Farah","Fawzi","Hasan","Ikraam","Jafar","Majeed","Munira","Nadir"],
   }
 ]
