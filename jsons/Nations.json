@@ -19,4 +19,22 @@
                "Firozkoh","Tarinkot","Spin Boldak","Maimana","Gardez"],
     "spyNames": ["Ahmed","Aali","Abeer","Djamel","Fadi","Farah","Fawzi","Hasan","Ikraam","Jafar","Majeed","Munira","Nadir"],
   }
+  {
+    "name": "Albania",
+    "leaderName": "Vesa",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "How could we fall to the likes of you?!",
+    "introduction": "Welcome, I am Vesa of Albania. May we have peace between us.",
+    "neutralHello": "Hello.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "Is the following trade of interest to you?",
+
+    "outerColor": [255,255,255],
+    "innerColor": [0,0,0],
+    "uniqueName": "True Generic Real Country",
+    "cities": ["Tirana"],
+    "spyNames": ["Ahmed","Aali","Abeer","Djamel","Fadi","Farah","Fawzi","Hasan","Ikraam","Jafar","Majeed","Munira","Nadir"],
+  }
 ]
